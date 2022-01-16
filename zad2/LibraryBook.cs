@@ -4,30 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace z1
+namespace zad2
 {
-    internal class Library
+    delegate void DelegatToSortZad2();
+    class LibraryBook
     {
         public Book[] books;
 
-        public Library(Book[] books)
+        public LibraryBook(Book[] books)
         {
             this.books = books;
         }
 
-        public void SortingLibrary(DelegatToSortZad2 d)
+        public void SortLibrary(DelegatToSortZad2 d)
         {
             d.Invoke();
         }
-        public void SortByName()
+        public void SortName()
         {
             books = books.OrderBy(e => e.Name).ToArray();
         }
-        public void SortByAuthor()
+        public void SortAuthor()
         {
             books = books.OrderBy(e => e.Author).ToArray();
         }
-        public void SortByPublishing()
+        public void SortPublishing()
         {
             books = books.OrderBy(e => e.Publish).ToArray();
         }

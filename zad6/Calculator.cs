@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace z1
+namespace zad6
 {
-    internal class Calculator
+    class Calculator
     {
         public static Func<int, int, int> Add = (a, b) => a + b;
         public static Func<int, int, int> Subtract = (a, b) => a - b;

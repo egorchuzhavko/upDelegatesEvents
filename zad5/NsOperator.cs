@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace z1
+namespace zad5
 {
     enum Category
     {
@@ -14,15 +14,15 @@ namespace z1
         Events,
         Humor
     }
-    internal class NewsOperator
+    class NsOperator
     {
-        private delegate void MethodAddTo(string msg);
-        private event MethodAddTo SubscribeNews;
-        private event MethodAddTo SubscribeWeather;
-        private event MethodAddTo SubscribeSport;
-        private event MethodAddTo SubscribeEvents;
-        private event MethodAddTo SubscribeHumor;
-        public void SubscribeTo(Category id, Subscriber item)
+        private delegate void MethodAdd(string msg);
+        private event MethodAdd SubscribeNews;
+        private event MethodAdd SubscribeWeather;
+        private event MethodAdd SubscribeSport;
+        private event MethodAdd SubscribeEvents;
+        private event MethodAdd SubscribeHumor;
+        public void SubscribeTo(Category id, Sub item)
         {
             switch (id)
             {
@@ -46,7 +46,7 @@ namespace z1
             }
         }
 
-        public void SubscribeFrom(Category id, Subscriber item)
+        public void SubscribeFrom(Category id, Sub item)
         {
             switch (id)
             {

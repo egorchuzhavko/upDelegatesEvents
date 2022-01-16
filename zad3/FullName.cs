@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace z1
+namespace zad3
 {
-    internal class Fio
+    delegate string Delegat(string[] mas);
+    internal class FullName
     {
         public string ShortInfo(string[] name) 
         { 
