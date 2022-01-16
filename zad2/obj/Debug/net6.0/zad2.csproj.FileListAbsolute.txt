@@ -1,0 +1,15 @@
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\bin\Debug\net6.0\zad2.exe
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\bin\Debug\net6.0\zad2.deps.json
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\bin\Debug\net6.0\zad2.runtimeconfig.json
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\bin\Debug\net6.0\zad2.dll
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\bin\Debug\net6.0\ref\zad2.dll
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\bin\Debug\net6.0\zad2.pdb
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\zad2.csproj.AssemblyReference.cache
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\zad2.AssemblyInfoInputs.cache
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\zad2.AssemblyInfo.cs
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\zad2.dll
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\ref\zad2.dll
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\zad2.pdb
+C:\Users\Алексей\Source\Repos\upDelegatesEvents\zad2\obj\Debug\net6.0\zad2.genruntimeconfig.cache
